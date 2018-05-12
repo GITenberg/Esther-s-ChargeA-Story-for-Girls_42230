@@ -1,0 +1,46 @@
+_repo: Esther-s-ChargeA-Story-for-Girls_42230
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42230-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Everett-Green, Evelyn
+    aliases:
+    - Everett-Green, E. (Evelyn)
+    - Ward, E.
+    - Dare, Evelyn
+    - Adair, Cecil
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '4888'
+    url: http://www.gutenberg.org/2009/agents/4888
+description: ''
+gutenberg_issued: '2013-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42230'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Cousins -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Interpersonal relations -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Domestic animals -- Juvenile fiction'
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'Vacations -- Juvenile fiction'
+- !lcsh 'Mothers and daughters -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Attitude change -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Obedience -- Juvenile fiction'
+title: 'Esther''s Charge: A Story for Girls'
+url: http://www.gutenberg.org/ebooks/42230
